@@ -1,0 +1,13 @@
+Practica 2 Sistema de gestión de ventas de vehículos.
+integrantes 
+Isabel Parra Sierra 
+Mariana Montoya Deza 
+Plataformas utilizadas 
+Visual Studio Code 
+Swish Prolog 
+Descripcion del proyecto 
+Este proyecto consiste en desarrollar un progama en prolog que contenga un catálogo de vehículos y el cual permite hacer consultas específicas que filtren, agrupen y calculen información del inventario.
+Archivos incluidos 
+sistema_vehiculos.pl: codigo principal del programa 
+README:md: Documnetacion del proyecto 
+consultas.pl : casos parcticos 
